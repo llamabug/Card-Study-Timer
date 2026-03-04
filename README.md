@@ -13,3 +13,6 @@ On clicking start, a card is randomly selected and a timer starts based on that 
   <li>King break for 20 minutes</li>
   <li>Joker picks a different card, and doubles it</li>
 </ul>
+
+
+**I encountered some issues with the images whilst uploading to github hence why they are not in a separate folder, as they don't seem to show on the site otherwise.
